@@ -328,7 +328,7 @@ $sql = 'SELECT * FROM mission5';
         print ($eachDisplay);
       
     }
-   echo $_POST["h_sign"];
+   
 ?>
 </body>
 </html>
